@@ -1,5 +1,4 @@
 ## Olá sou Carlos Gabriel, sejam bem vindos ao meu perfil 👋
-- ✉️ Email para contato: ainda sera adicionado.
 
 <div align="center">
   <a href="https://github.com/DevCarlos-Gabriel">
