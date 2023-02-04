@@ -33,6 +33,9 @@
   
   ##
   
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/DevCarlos-Gabriel/count.svg" />
+  </div>
 
   ![snake gif](https://github.com/DevCarlos-Gabriel/DevCarlos-Gabriel/blob/output/github-contribution-grid-snake.svg)
 
