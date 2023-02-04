@@ -32,7 +32,9 @@
   </div>
   
   ##
-
-<a href="#" align="center" ><img src="./maz.svg"></a>
+  
+<div align="center">
+  ![snake gif](https://github.com/DevCarlos-Gabriel/DevCarlos-Gabriel/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49c5b6&height=120&section=footer"/>
