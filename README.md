@@ -1,10 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49c5b6&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carlos+Gabriel;I'm+17+years+old;I'm+from+Brazil,+CE;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+##
+# My Stats
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-rho-seven-98.vercel.app/api?username=DevCarlos-Gabriel&show_icons=true&count_private=true&hide_border=true&title_color=49c5b6&icon_color=49c5b6&text_color=c9d1d9&bg_color=0d1117" alt="Carlos_Gabriel-Carmo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlos-Gabriel&layout=compact&hide_border=true&title_color=49c5b6&text_color=49c5b6&bg_color=0d1117" />
+  
+[![](https://raw.githubusercontent.com/DevCarlos-Gabriel/CarlosStats/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DevCarlos-Gabriel/CarlosStats/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DevCarlos-Gabriel/CarlosStats/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/DevCarlos-Gabriel/CarlosStats/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DevCarlos-Gabriel/CarlosStats/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
   
 <div style="display: inline_block" align="center"><br>
@@ -32,11 +36,5 @@
   </div>
   
   ##
-  
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/DevCarlos-Gabriel/count.svg" />
-  </div>
-
-  ![snake gif](https://github.com/DevCarlos-Gabriel/DevCarlos-Gabriel/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49c5b6&height=120&section=footer"/>
