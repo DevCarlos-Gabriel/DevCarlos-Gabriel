@@ -10,13 +10,6 @@
 [![](https://raw.githubusercontent.com/DevCarlos-Gabriel/CarlosStats/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/DevCarlos-Gabriel/CarlosStats/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
-
-# My Skills
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="carlos-rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img align="center" alt="carlos-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="carlos-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div>
   
   ##
   
